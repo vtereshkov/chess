@@ -1,0 +1,1 @@
+g++ ChessGUI.cpp ChessEngine.cpp -mwindows -lgdi32 -static-libgcc -static-libstdc++ -O3 -o ChessGUI.exe
